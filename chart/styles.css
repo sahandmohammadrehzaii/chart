@@ -21,8 +21,8 @@ body {
 
 .chart {
     padding: 2rem;
-    border: 1px solid #f49131;
-    border-radius: 1rem;
+    border: 100px solid #f49131;
+    border-radius: 5rem;
     background: #251c35;
-    box-shadow: 0 0 16px rgba(0, 0, 0, 0.8);
+    box-shadow: 20 20 16px rgba(0, 0, 0, 0.8);
 }
